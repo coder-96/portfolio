@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53260b38.css",
+    "main.js": "/static/js/main.b135fd02.js",
+    "static/media/work-pic.jpg": "/static/media/work-pic.33c39f175600424ad8be.jpg",
+    "static/media/todo-mern.jpg": "/static/media/todo-mern.b04ca18c6ba85c178be3.jpg",
+    "static/media/git-pic.jpg": "/static/media/git-pic.86bac3ab9249cb84defb.jpg",
+    "static/media/e-com-product-page.jpg": "/static/media/e-com-product-page.80ccebb32094d46038b6.jpg",
+    "static/media/Jalga_CV_for_portfolio_site.pdf": "/static/media/Jalga_CV_for_portfolio_site.f6cb60f3300271bfef4e.pdf",
+    "static/media/3-col-card-desktop.jpg": "/static/media/3-col-card-desktop.5e3d7220bf6e5681430b.jpg",
+    "static/media/age-calc-app-laptop.jpg": "/static/media/age-calc-app-laptop.ff76a216500a455e1998.jpg",
+    "static/media/qr-desktop.jpg": "/static/media/qr-desktop.9f047b22c0c6ea0c974c.jpg",
+    "static/media/todo-django-cbv.jpg": "/static/media/todo-django-cbv.914c80a7102658190148.jpg",
+    "static/media/order-sum-desktop.jpg": "/static/media/order-sum-desktop.26f39d4ae45c0330a727.jpg",
+    "static/media/todo-django-fbv.jpg": "/static/media/todo-django-fbv.3e59ca5a1213adaa27f5.jpg",
+    "static/media/nft-card.jpg": "/static/media/nft-card.cb67f8c49dbc0c4c9a7b.jpg",
+    "index.html": "/index.html",
+    "main.53260b38.css.map": "/static/css/main.53260b38.css.map",
+    "main.b135fd02.js.map": "/static/js/main.b135fd02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53260b38.css",
+    "static/js/main.b135fd02.js"
+  ]
+}
