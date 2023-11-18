@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.53260b38.css",
-    "main.js": "/portfolio/static/js/main.798d4f17.js",
+    "main.js": "/portfolio/static/js/main.599ad90d.js",
     "static/media/work-pic.jpg": "/portfolio/static/media/work-pic.33c39f175600424ad8be.jpg",
     "static/media/todo-mern.jpg": "/portfolio/static/media/todo-mern.b04ca18c6ba85c178be3.jpg",
     "static/media/git-pic.jpg": "/portfolio/static/media/git-pic.86bac3ab9249cb84defb.jpg",
     "static/media/e-com-product-page.jpg": "/portfolio/static/media/e-com-product-page.80ccebb32094d46038b6.jpg",
-    "static/media/Jalga_CV_for_portfolio_site.pdf": "/portfolio/static/media/Jalga_CV_for_portfolio_site.f6cb60f3300271bfef4e.pdf",
+    "static/media/Jalga_CV_for_portfolio_site.pdf": "/portfolio/static/media/Jalga_CV_for_portfolio_site.945bc6a7cfdb959b6d10.pdf",
     "static/media/3-col-card-desktop.jpg": "/portfolio/static/media/3-col-card-desktop.5e3d7220bf6e5681430b.jpg",
     "static/media/age-calc-app-laptop.jpg": "/portfolio/static/media/age-calc-app-laptop.ff76a216500a455e1998.jpg",
     "static/media/qr-desktop.jpg": "/portfolio/static/media/qr-desktop.9f047b22c0c6ea0c974c.jpg",
@@ -16,10 +16,10 @@
     "static/media/nft-card.jpg": "/portfolio/static/media/nft-card.cb67f8c49dbc0c4c9a7b.jpg",
     "index.html": "/portfolio/index.html",
     "main.53260b38.css.map": "/portfolio/static/css/main.53260b38.css.map",
-    "main.798d4f17.js.map": "/portfolio/static/js/main.798d4f17.js.map"
+    "main.599ad90d.js.map": "/portfolio/static/js/main.599ad90d.js.map"
   },
   "entrypoints": [
     "static/css/main.53260b38.css",
-    "static/js/main.798d4f17.js"
+    "static/js/main.599ad90d.js"
   ]
 }
