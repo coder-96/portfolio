@@ -61,8 +61,8 @@ function App() {
                 <div className="info">
                   <p className="greeting">✋ Hello, my name is</p>
                   <h1 className="name">Jalga.</h1>
-                  <h1 className="field">Junior Python Django Developer</h1>
-                  <p className="pep">I CREATE WEBSITES AND WEB APPLICATIONS. I CAN BRING TO LIFE YOUR DESIGNS WITH ALL FUNCTIONALITY YOU NEED.</p>
+                  <h1 className="field">Frontend Developer</h1>
+                  <p className="pep">I CREATE WEBSITES AND WEB APPLICATIONS. I BRING TO LIFE YOUR DESIGNS.</p>
                   <a className="contacts-btn" href="#contact-me">Contacts</a>
                 </div>
                 <div className="my-pic">
@@ -75,23 +75,23 @@ function App() {
                 <span>*</span>
                 <p>CSS</p>
                 <span>*</span>
-                <p>PYTHON</p>
-                <span>*</span>
-                <p>DJANGO</p>
-                <span>*</span>
-                <p>DJANGO REST</p>
-                <span>*</span>
-                <p>FLASK</p>
-                <span>*</span>
                 <p>JAVASCRIPT</p>
                 <span>*</span>
-                <p>POSTGRES</p>
+                <p>REACT</p>
+                <span>*</span>
+                <p>TAILWIND</p>
+                <span>*</span>
+                <p>BOOTSTRAP</p>
+                <span>*</span>
+                <p>JQUERY</p>
+                <span>*</span>
+                <p>AXIOS</p>
               </div>
 
               <section className="about">
                 <div className="one">
                   <h1>About <span>Jalga</span></h1>
-                  <p className="description">A self-taught junior python dev with a strong desire to coding and learning, including some experience with front-end development. Experienced working in different fields, as sales manager and marketing manager. A fluent user of popular programming languages like Python, JavaScript and tools like Adobe CC etc.</p>
+                  <p className="description">A self-taught frontend developer with a strong desire to coding and learning, including some knowledge of backend development. Experienced working in different fields, as sales manager and marketing manager. A fluent user of popular programming languages like Python, JavaScript and tools like Adobe CC etc.</p>
                   <div>
                     <a href="https://github.com/coder-96"><FontAwesomeIcon icon={ faGithub } size="lg" /></a>
                     <a href="https://twitter.com/jsaga_"><FontAwesomeIcon icon={ faTwitter } size="lg" /></a>
@@ -99,6 +99,41 @@ function App() {
                   </div>
                   <p>Here Are A Few Technologies I've Been Working With Recently:</p>
                   <div className="tech-table">
+                    <p>
+                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
+                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
+                      </svg>
+                      HTML
+                    </p>
+                    <p>
+                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
+                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
+                      </svg>
+                      CSS
+                    </p>
+                    <p>
+                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
+                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
+                      </svg>
+                     Javascript
+                    </p>
+                    <p>
+                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
+                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
+                      </svg>
+                      React.js
+                    </p>
+                    <p>
+                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
+                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
+                      </svg>
+                      Tailwind CSS
+                    </p>
                     <p>
                       <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
@@ -118,35 +153,7 @@ function App() {
                       <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
                       <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
                       </svg>
-                     Javascript
-                    </p>
-                    <p>
-                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
-                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
-                      </svg>
-                      MongoDB
-                    </p>
-                    <p>
-                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
-                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
-                      </svg>
-                      Express JS
-                    </p>
-                    <p>
-                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
-                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
-                      </svg>
-                      React JS
-                    </p>
-                    <p>
-                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
-                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
-                      </svg>
-                      Node JS
+                      Django REST
                     </p>
                     <p>
                       <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -154,13 +161,6 @@ function App() {
                       <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
                       </svg>
                       Bootstrap
-                    </p>
-                    <p>
-                      <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <circle cx="5.5" cy="5.5" r="5.5" fill="#FF8E5E"/>
-                      <circle cx="12.5" cy="5.5" r="5.5" fill="#FFC5B2"/>
-                      </svg>
-                      Tailwind CSS
                     </p>
                   </div>
                 </div>
@@ -206,8 +206,8 @@ function App() {
                   </div>
                   <hr />
                   <div>
-                    <h2>Personal Portfolio Projects</h2>
-                    <p>Been working on my portfolio projects</p>
+                    <h2>Freelance & Portfolio Projects</h2>
+                    <p>I've been working on my portfolio projects, and taking orders for landing pages when I had spare time.</p>
                     <p className="time">2023, August - Present Day</p>
                   </div>
                 </div>
@@ -219,23 +219,23 @@ function App() {
                   <li>
                     <div class="vl"></div>
                     <h3>Qualifications</h3>
-                    <p>Experience in Django and Python development is not much but I'm fast learner. Knowledge of front-end technologies, including HTML5, CSS3, and JavaScript. Understanding of databases and ORM systems. Experience with RESTful API design and implementation. Knowledge of version control systems, like Git. Attention to detail, and a dedication to quality. Excellent verbal and written communication skills.</p>
+                    <p>Experience in Frontend development is not much but I'm fast learner. Some knowledge of backend technologies, including Django, Flask, and Node.js. Understanding of databases and ORM systems. Understanding of RESTful API design and implementation. Knowledge of version control systems, like Git. Attention to detail, and a dedication to quality. Excellent verbal and written communication skills.</p>
                   </li>
                   <li>
                     <div class="vl-2"></div>
                     <h3>What can I do for you</h3>
-                    <p>Creating a website or web app according to your figma designs. Developing responsive and interactive frontend parts of projects. Developing server side of websites and web apps with Django. Adding api routes with Django Rest Framework for synced work with React Frontend part. Performing CRUD operations in Django with SQLite or connecting it to Postgresql and more.</p>
+                    <p>Create a website or web app according to your figma designs. Developing responsive and interactive frontend parts of projects. Integrating api routes to React using Axios.</p>
                   </li>
                   <li>
                     <div class="vl-3"></div>
                     <h3>What can you expect</h3>
-                    <p>As a Django developer I'm always eager to learn about new tools, techniques, and best practices. You can expect me to deliver my work on time. You can also expect me to be honest with you about your project's needs, so that we can come up with an approach that works best for both of us. Good communication skills, team work and problem-solving skills.</p>
+                    <p>As a frontend developer I'm always eager to learn about new tools, techniques, and best practices. You can expect me to deliver my work on time. You can also expect me to be honest with you about your project's needs, so that we can come up with an approach that works best for both of us. Good communication and team work skills.</p>
                   </li>
                 </ul>
               </section>
 
               <section className="projects">
-                <h1>I create projects</h1>
+                <h1>I created some projects</h1>
                 <h1 className="nd">that display my skills</h1>
                 <ul>
                   <li>
