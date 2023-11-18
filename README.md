@@ -29,6 +29,12 @@ Users should be able to:
 - Contact me via email.
 - Check my Github, Twitter, Instagram accounts.
 
+### The figma design
+
+<p float="left">
+  <img src="https://www.figma.com/file/wG0wLw7H40ePZnV2L6GcYM/PORTFOLIO-WEBSITE-TEMPLATE-(Community)?type=design&node-id=1-153&mode=design&t=qmH2j1ru3OoW9t1A-0" alt="homepage" width="200"/>
+</p>
+
 ### Screenshot
 
 <p float="left">
@@ -37,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Repository URL: [Add solution URL here](hhttps://github.com/coder-96/to-do-list-django-fbv)
+- Repository URL: [Add solution URL here](https://github.com/coder-96/portfolio)
 
 ## My process
 
