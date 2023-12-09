@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.53260b38.css",
-    "main.js": "/portfolio/static/js/main.599ad90d.js",
+    "main.js": "/portfolio/static/js/main.d9fd0a0e.js",
     "static/media/work-pic.jpg": "/portfolio/static/media/work-pic.33c39f175600424ad8be.jpg",
     "static/media/todo-mern.jpg": "/portfolio/static/media/todo-mern.b04ca18c6ba85c178be3.jpg",
     "static/media/git-pic.jpg": "/portfolio/static/media/git-pic.86bac3ab9249cb84defb.jpg",
@@ -16,10 +16,10 @@
     "static/media/nft-card.jpg": "/portfolio/static/media/nft-card.cb67f8c49dbc0c4c9a7b.jpg",
     "index.html": "/portfolio/index.html",
     "main.53260b38.css.map": "/portfolio/static/css/main.53260b38.css.map",
-    "main.599ad90d.js.map": "/portfolio/static/js/main.599ad90d.js.map"
+    "main.d9fd0a0e.js.map": "/portfolio/static/js/main.d9fd0a0e.js.map"
   },
   "entrypoints": [
     "static/css/main.53260b38.css",
-    "static/js/main.599ad90d.js"
+    "static/js/main.d9fd0a0e.js"
   ]
 }
