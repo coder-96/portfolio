@@ -3,7 +3,7 @@ import git_pic from "../images/git-pic.jpg";
 import work_pic from "../images/work-pic.jpg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faInstagram, faTwitter } from "@fortawesome/free-brands-svg-icons";
-import { faBars, faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import { faBars, faEnvelope, faFile } from "@fortawesome/free-solid-svg-icons";
 // import { faBookmark } from "@fortawesome/free-regular-svg-icons";
 
 import threecards from "../images/projects/3-col-card-desktop.jpg";
@@ -37,6 +37,7 @@ function App() {
                 <a href="https://github.com/coder-96"><FontAwesomeIcon icon={ faGithub } size="lg" /> GitHub</a>
                 <a href="https://twitter.com/jsaga_"><FontAwesomeIcon icon={ faTwitter } size="lg" /> Twitter</a>
                 <a href="https://www.instagram.com/keen_for_more/"><FontAwesomeIcon icon={ faInstagram } size="lg" /> Instagram</a>
+                <a href={cv} download="jalga_cv"><FontAwesomeIcon icon={ faFile } size="lg"/> Download CV</a>
               </div>
             </div>
 
@@ -311,13 +312,3 @@ function App() {
 }
 
 export default App;
-
-// const Home = () => {
-//   return ( 
-//     <div>
-//       <h1>Home</h1>
-//     </div>
-//    );
-// }
- 
-// export { Home };
