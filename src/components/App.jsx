@@ -95,7 +95,7 @@ function App() {
               <section className="about">
                 <div className="one">
                   <h1>About <span>Jalga</span></h1>
-                  <p className="description">A self-taught frontend developer with a strong desire to coding and learning, including some knowledge of backend development. Experienced working in different fields, as sales manager and marketing manager. A fluent user of popular programming languages like Python, JavaScript and tools like Adobe CC etc.</p>
+                  <p className="description">A self-taught web developer with a strong desire to coding and learning, including some knowledge of backend development. Experienced working in different fields, as sales manager and marketing manager. A fluent user of popular programming languages like Python, JavaScript and tools like Adobe CC etc.</p>
                   <div>
                     <a href="https://github.com/coder-96"><FontAwesomeIcon icon={ faGithub } size="lg" /></a>
                     <a href="https://twitter.com/jsaga_"><FontAwesomeIcon icon={ faTwitter } size="lg" /></a>
