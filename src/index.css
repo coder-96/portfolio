@@ -489,10 +489,6 @@
         margin: 1.5rem 0;
     }
 
-    .four {
-        /* background-color: rgb(76, 96, 96); */
-    }
-
     /* --------- MY SKILLS ----------------- */
 
     .vl, .vl-2, .vl-3 {
@@ -594,6 +590,10 @@
             grid-template-rows: none;
             /* grid-template: repeat(auto-fit, minmax(240px, 1fr)) / repeat(auto-fit, minmax(240px, 1fr)); */
         }
+
+        .projects > ul > li {
+            max-height: 250px;
+        }
     }
 
     @media (max-width: 530px) {
@@ -610,12 +610,6 @@
 
     .card {
         position: relative;
-        /* width: 220px; */
-        /* height: 320px; */
-        /* background: mediumturquoise; */
-        /* display: flex; */
-        /* align-items: center; */
-        /* justify-content: center; */
         font-size: 25px;
         font-weight: 700;
         border-radius: 15px;
@@ -659,13 +653,13 @@
     }
     
     .first:hover:after {
-    content: "React JS, Tailwind CSS";
+    content: "React JS";
     }
     .second:hover:after {
-    content: "HTML, CSS, JavaScript";
+    content: "React JS";
     }
     .third:hover:after {
-    content: "React JS";
+    content: "HTML, CSS, JavaScript";
     }
     .fourth:hover:after {
     content: "HTML, CSS";
@@ -677,10 +671,10 @@
     content: "HTML, CSS, Flexbox";
     }
     .seventh:hover:after {
-    content: "HTML, CSS, Bootstrap, Django, SQLite";
+    content: "Bootstrap, Django, SQLite";
     }
     .eighth:hover:after {
-    content: "HTML, CSS, Bootstrap, Django, Django Rest, Postgres";
+    content: "Bootstrap, Django, Postgres";
     }
     .ninth:hover:after {
     content: "MERN Stack";

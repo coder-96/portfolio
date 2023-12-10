@@ -6,6 +6,9 @@ import { faGithub, faInstagram, faTwitter } from "@fortawesome/free-brands-svg-i
 import { faBars, faEnvelope, faFile } from "@fortawesome/free-solid-svg-icons";
 // import { faBookmark } from "@fortawesome/free-regular-svg-icons";
 
+import spacesite from "../images/projects/space-tourism-site.jpg";
+import portfoliosite from "../images/projects/portfolio-site.jpg"
+
 import threecards from "../images/projects/3-col-card-desktop.jpg";
 import agecalc from "../images/projects/age-calc-app-laptop.jpg";
 import ecomproduct from "../images/projects/e-com-product-page.jpg";
@@ -62,7 +65,7 @@ function App() {
                 <div className="info">
                   <p className="greeting">✋ Hello, my name is</p>
                   <h1 className="name">Jalga.</h1>
-                  <h1 className="field">Frontend Developer</h1>
+                  <h1 className="field">Web Developer</h1>
                   <p className="pep">I CREATE WEBSITES AND WEB APPLICATIONS. I BRING TO LIFE YOUR DESIGNS.</p>
                   <a className="contacts-btn" href="#contact-me">Contacts</a>
                 </div>
@@ -220,7 +223,7 @@ function App() {
                   <li>
                     <div class="vl"></div>
                     <h3>Qualifications</h3>
-                    <p>Experience in Frontend development is not much but I'm fast learner. Some knowledge of backend technologies, including Django, Flask, and Node.js. Understanding of databases and ORM systems. Understanding of RESTful API design and implementation. Knowledge of version control systems, like Git. Attention to detail, and a dedication to quality. Excellent verbal and written communication skills.</p>
+                    <p>Experience in Frontend development is not much but I'm fast learner. Some knowledge of Backend technologies, including Django, Flask, and Node.js. Understanding of databases and ORM systems. Understanding of RESTful API design and implementation. Knowledge of version control systems, like Git. Attention to detail, and a dedication to quality. Excellent verbal and written communication skills.</p>
                   </li>
                   <li>
                     <div class="vl-2"></div>
@@ -230,32 +233,32 @@ function App() {
                   <li>
                     <div class="vl-3"></div>
                     <h3>What can you expect</h3>
-                    <p>As a frontend developer I'm always eager to learn about new tools, techniques, and best practices. You can expect me to deliver my work on time. You can also expect me to be honest with you about your project's needs, so that we can come up with an approach that works best for both of us. Good communication and team work skills.</p>
+                    <p>As a developer I'm always eager to learn about new tools, techniques, and best practices. You can expect me to deliver my work on time. You can also expect me to be honest with you about your project's needs, so that we can come up with an approach that works best for both of us.</p>
                   </li>
                 </ul>
               </section>
 
               <section className="projects">
-                <h1>I created some projects</h1>
-                <h1 className="nd">that display my skills</h1>
+                <h1>Here are some projects</h1>
+                <h1 className="nd">to showcase my skills</h1>
                 <ul>
                   <li>
-                    <a class="card first" href="https://coder-96.github.io/frontend-mentor-3-column-card/">
-                      <img src={threecards} alt="screenshot" />
+                    <a class="card first" href="https://coder-96.github.io/fm-space-tourism-website/">
+                      <img src={spacesite} alt="screenshot" />
                     </a>
-                      <p><span>Frontend:</span> 3 column card component</p>
+                      <p><span>Frontend:</span> Space tourism website</p>
                   </li>
                   <li>
-                    <a class="card second" href="https://coder-96.github.io/frontend-mentor-age-calculator-app/">
+                    <a class="card second" href="https://coder-96.github.io/portfolio/">
+                      <img src={portfoliosite} alt="screenshot" />
+                    </a>
+                    <p><span>Frontend:</span> Portfolio website</p>
+                  </li>
+                  <li>
+                    <a class="card third" href="https://coder-96.github.io/frontend-mentor-age-calculator-app/">
                       <img src={agecalc} alt="screenshot" />
                     </a>
                     <p><span>Frontend:</span> Age Calculator</p>
-                  </li>
-                  <li>
-                    <a class="card third" href="https://coder-96.github.io/frontend-mentor-product-page/">
-                      <img src={ecomproduct} alt="screenshot" />
-                    </a>
-                    <p><span>Frontend:</span> Product page component</p>
                   </li>
                   <li>
                     <a class="card fourth" href="https://coder-96.github.io/frontend-mentor-nft-preview-card-component/">
