@@ -653,22 +653,22 @@
     }
     
     .first:hover:after {
-    content: "React JS";
+    content: "HTML, CSS";
     }
     .second:hover:after {
     content: "React JS";
     }
     .third:hover:after {
-    content: "HTML, CSS, JavaScript";
+    content: "React JS";
     }
     .fourth:hover:after {
-    content: "HTML, CSS";
+    content: "React JS, CSS";
     }
     .fifth:hover:after {
-    content: "HTML, CSS";
+    content: "JavaScript";
     }
     .sixth:hover:after {
-    content: "HTML, CSS, Flexbox";
+    content: "JavaScript";
     }
     .seventh:hover:after {
     content: "Bootstrap, Django, SQLite";

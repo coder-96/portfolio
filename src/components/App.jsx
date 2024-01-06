@@ -7,17 +7,21 @@ import { faBars, faEnvelope, faFile } from "@fortawesome/free-solid-svg-icons";
 // import { faBookmark } from "@fortawesome/free-regular-svg-icons";
 
 import spacesite from "../images/projects/space-tourism-site.jpg";
-import portfoliosite from "../images/projects/portfolio-site.jpg"
+import portfoliosite from "../images/projects/portfolio-site.jpg";
+import b2bcreative from "../images/projects/b2b-creative.jpg";
+import omurltd from "../images/projects/omur-ltd.jpg";
+import heatmap from "../images/projects/heatmap-d.jpg";
 
-import threecards from "../images/projects/3-col-card-desktop.jpg";
 import agecalc from "../images/projects/age-calc-app-laptop.jpg";
-import ecomproduct from "../images/projects/e-com-product-page.jpg";
-import nftcard from "../images/projects/nft-card.jpg";
-import ordersum from "../images/projects/order-sum-desktop.jpg";
-import qrcard from "../images/projects/qr-desktop.jpg";
 import todocbv from "../images/projects/todo-django-cbv.jpg";
 import todofbv from "../images/projects/todo-django-fbv.jpg";
 import todomern from "../images/projects/todo-mern.jpg";
+
+import qrcard from "../images/projects/qr-desktop.jpg";
+import ordersum from "../images/projects/order-sum-desktop.jpg";
+import nftcard from "../images/projects/nft-card.jpg";
+import threecards from "../images/projects/3-col-card-desktop.jpg";
+import ecomproduct from "../images/projects/e-com-product-page.jpg";
 
 import cv from "../images/Jalga_CV_for_portfolio_site.pdf";
 
@@ -243,40 +247,40 @@ function App() {
                 <h1 className="nd">to showcase my skills</h1>
                 <ul>
                   <li>
-                    <a class="card first" href="https://coder-96.github.io/fm-space-tourism-website/">
+                    <a class="card first" href="https://coder-96.github.io/b2b-creative/">
+                      <img src={b2bcreative} alt="screenshot" />
+                    </a>
+                    <p><span>Frontend:</span> 3 blocks of a landing page</p>
+                  </li>
+                  <li>
+                    <a class="card second" href="https://coder-96.github.io/omur-ltd/">
+                      <img src={omurltd} alt="screenshot" />
+                    </a>
+                    <p><span>Frontend:</span> Landing page</p>
+                  </li>
+                  <li>
+                    <a class="card third" href="https://coder-96.github.io/fm-space-tourism-website/">
                       <img src={spacesite} alt="screenshot" />
                     </a>
                       <p><span>Frontend:</span> Space tourism website</p>
                   </li>
                   <li>
-                    <a class="card second" href="https://coder-96.github.io/portfolio/">
+                    <a class="card fourth" href="https://coder-96.github.io/portfolio/">
                       <img src={portfoliosite} alt="screenshot" />
                     </a>
                     <p><span>Frontend:</span> Portfolio website</p>
                   </li>
                   <li>
-                    <a class="card third" href="https://coder-96.github.io/frontend-mentor-age-calculator-app/">
+                    <a class="card fifth" href="https://coder-96.github.io/frontend-mentor-age-calculator-app/">
                       <img src={agecalc} alt="screenshot" />
                     </a>
                     <p><span>Frontend:</span> Age Calculator</p>
                   </li>
                   <li>
-                    <a class="card fourth" href="https://coder-96.github.io/frontend-mentor-nft-preview-card-component/">
-                      <img src={nftcard} alt="screenshot" />
+                    <a class="card sixth" href="https://coder-96.github.io/contributions-graph/">
+                      <img src={heatmap} alt="screenshot" />
                     </a>
-                    <p><span>Frontend:</span> NFT preview card component</p>
-                  </li>
-                  <li>
-                    <a class="card fifth" href="https://coder-96.github.io/frontend-mentor-order-summary-component/">
-                      <img src={ordersum} alt="screenshot" />
-                    </a>
-                    <p><span>Frontend:</span> Order summary component</p>
-                  </li>
-                  <li>
-                    <a class="card sixth" href="https://coder-96.github.io/frontend-mentor-qr-code-component/">
-                      <img src={qrcard} alt="screenshot" />
-                    </a>
-                    <p><span>Frontend:</span> QR code card component</p>
+                    <p><span>Frontend:</span> contributions graph clone</p>
                   </li>
                   <li>
                     <a class="card seventh" href="https://github.com/coder-96/to-do-list-django">
