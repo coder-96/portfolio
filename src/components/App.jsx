@@ -26,6 +26,9 @@ import ecomproduct from "../images/projects/e-com-product-page.jpg";
 import cv from "../images/Jalga_CV_for_portfolio_site.pdf";
 
 function App() {
+
+  const year = new Date().getFullYear();
+
   return (
     <div className="grid">
       <div className="app-comp">
@@ -311,7 +314,7 @@ function App() {
               
         </main>
         <footer>
-          <p>© 2023 by Jalga (Zhalgasyn Ernazarov) | Made with React</p>
+          <p>© {year} by Jalga (Zhalgasyn Ernazarov) | Made with React</p>
         </footer>
       </div>
     </div>
