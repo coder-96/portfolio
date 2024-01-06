@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.dea6bd14.css",
-    "main.js": "/portfolio/static/js/main.53a5dd71.js",
+    "main.css": "/portfolio/static/css/main.e99d8334.css",
+    "main.js": "/portfolio/static/js/main.a2b50df7.js",
     "static/media/work-pic.jpg": "/portfolio/static/media/work-pic.33c39f175600424ad8be.jpg",
+    "static/media/omur-ltd.jpg": "/portfolio/static/media/omur-ltd.4dca82fdf910603864e2.jpg",
+    "static/media/b2b-creative.jpg": "/portfolio/static/media/b2b-creative.a5047eaaa5f2b7ed648e.jpg",
     "static/media/todo-mern.jpg": "/portfolio/static/media/todo-mern.b04ca18c6ba85c178be3.jpg",
     "static/media/portfolio-site.jpg": "/portfolio/static/media/portfolio-site.6e46578f4bc73cbce89f.jpg",
     "static/media/git-pic.jpg": "/portfolio/static/media/git-pic.86bac3ab9249cb84defb.jpg",
@@ -16,12 +18,13 @@
     "static/media/order-sum-desktop.jpg": "/portfolio/static/media/order-sum-desktop.26f39d4ae45c0330a727.jpg",
     "static/media/todo-django-fbv.jpg": "/portfolio/static/media/todo-django-fbv.3e59ca5a1213adaa27f5.jpg",
     "static/media/nft-card.jpg": "/portfolio/static/media/nft-card.cb67f8c49dbc0c4c9a7b.jpg",
+    "static/media/heatmap-d.jpg": "/portfolio/static/media/heatmap-d.f1d1c1d480caa9e85dab.jpg",
     "index.html": "/portfolio/index.html",
-    "main.dea6bd14.css.map": "/portfolio/static/css/main.dea6bd14.css.map",
-    "main.53a5dd71.js.map": "/portfolio/static/js/main.53a5dd71.js.map"
+    "main.e99d8334.css.map": "/portfolio/static/css/main.e99d8334.css.map",
+    "main.a2b50df7.js.map": "/portfolio/static/js/main.a2b50df7.js.map"
   },
   "entrypoints": [
-    "static/css/main.dea6bd14.css",
-    "static/js/main.53a5dd71.js"
+    "static/css/main.e99d8334.css",
+    "static/js/main.a2b50df7.js"
   ]
 }
